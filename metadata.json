@@ -1,0 +1,8 @@
+{
+  "name": "Magical Christmas Surprises",
+  "description": "An interactive Christmas experience featuring a twinkling tree, Santa Claus, and magical gifts that reveal unique festive ideas and emojis using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
